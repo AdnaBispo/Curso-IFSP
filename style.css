@@ -5,3 +5,15 @@
     color:chartreuse;
     }
 
+#body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    text-align: justify;
+
+ p{
+    color: cadetblue;
+    text-align: center;
+}
+
+}
