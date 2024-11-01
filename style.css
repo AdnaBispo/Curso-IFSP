@@ -1,9 +1,11 @@
 #leão {
     color: rgb(224, 27, 165);
+    display: flex;
 }
 
 .cor {
     color: chartreuse;
+    display: flex;
 }
 
 #body {
@@ -24,7 +26,5 @@
     .lista {
         color: antiquewhite;
     }
-h1{
-    display: flex;
-}
+
 }
